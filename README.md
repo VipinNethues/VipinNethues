@@ -7,22 +7,19 @@
 - 👨‍💻 I’m currently working with Nethues Technologies and work on web development technologies like MYSQL, JavaScript, PHP, Node, JQuery, HTML etc.
 - 📚 I’m currently learning everything about AWS and Salesforce technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - lext target is Python.
-- ⚡ Fun fact: I love to fly kites and long rides on bikes 🎱.
+- ⚡ Fun fact: I love to fly kites and long rides on bike[Bike].
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Contact with me 📝
-
 
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][eamil]
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
-
 <br />
 
 ---
+
 
 ### Languages and Tools 🛠 
 
@@ -30,7 +27,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
@@ -54,7 +50,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VipinNethues&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinNethues=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinNethues&theme=react&line_height=40&hide=css"/>
     </a>
 </div
   
