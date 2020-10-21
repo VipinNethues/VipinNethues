@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Software Development Professional 
 
 - 👨‍💻 I’m currently working with Nethues Technologies and work on web development technologies like MYSQL, JavaScript, PHP, Node, JQuery, HTML etc.
 - 📚 I’m currently learning everything about AWS and Salesforce technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - lext target is Python.
-- ⚡ Fun fact: I love to fly kites and long rides on bike[Bike].
+- ⚡ Fun fact: I love to fly kites and long rides on bike :motorcycle
 
 ---
 
