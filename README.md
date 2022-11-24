@@ -1,11 +1,11 @@
 # Hi there, I'm Vipin Gautam - [Nethues Technologies] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
-## I'm a Software Development Professional 
+## Software Development Professional and Student 
 
-- 👨‍💻 I’m currently working with Nethues Technologies and work on web development technologies like MYSQL, JavaScript, PHP, Node, JQuery, HTML and CMS like Expression engine, PrestaShop, shopify, wordpress etc.
+- 👨‍💻 I’m currently working with Nethues Technologies and work on web development technologies like MYSQL, JavaScript, PHP, Node, JQuery, HTML and CMS like Expression engine, PrestaShop, Magento2, shopify, wordpress etc.
 - 📚 I’m currently learning everything about AWS and REACT JS 😅
-- 💪🏼 Future Goals: Learn more technologies - lext target is Python.
+- 💪🏼 Future Goals: Learn more technologies - Next target is Python and sone latest JS libraries.
 - ⚡ Fun fact: I love to fly kites and long rides on motorcycle.
 
 ---
