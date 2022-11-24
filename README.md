@@ -1,4 +1,4 @@
-# Hi there, I'm Vipin Gautam - [Nethues Technologies] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Vipin Gautam - [Nethues Technologies (P) Ltd.]
 
 
 ## Software Development Professional and Student 
