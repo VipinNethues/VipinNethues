@@ -59,7 +59,7 @@
  
 
 [Nethues Technologies]: https://www.nethues.com/
-[eamil]: mailto:vipin950@gmail.com
+[eamil]: mailto:vipingautam@nethues.com
 [instagram]: https://www.instagram.com/vipin.delhi
 [linkedin]: https://www.linkedin.com/in/vipin950/
 
